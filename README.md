@@ -1,3 +1,3 @@
 # hello-world
-book
-Hello. I am new to programmin. The sloth suggested I download this.
+Hello. I am new to programming. 
+The sloth suggested I download this.
